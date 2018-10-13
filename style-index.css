@@ -1,0 +1,16 @@
+/* START: Meet the team */
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.container-card {
+    padding: 16px 16px;
+}
+.title {
+    color: grey;
+}
+.team{
+    max-width: 100%;
+}
+
+/* END: Meet the team */
