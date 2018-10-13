@@ -24,7 +24,7 @@ h1{
 .jumbotron { 
     height: 35%;
     margin: 0px;
-    background-image: url(/Users/joeschoeler/Desktop/jumboPic.jpg);
+    background-image: url(https://raw.githubusercontent.com/joeschoeler13/AlexaAdvice/master/jumboPic.jpg);
     background-position-x: 0px;
     background-position-y: 50%;
     background-size: cover;
